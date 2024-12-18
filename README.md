@@ -1,17 +1,10 @@
 RELEX Monitoring API demo application
 =====================================
 
-This repository contains a demo application showing examples of how 
+This repository contains a demo application showing code examples of how 
 RELEX customers can interact with the [RELEX Monitoring API][1]. 
 
-## How to run the sample application
-
-The application requires Python 3 and the `requests` library:
-
-```
-pip install -r requirements.txt
-python main.py
-```
+The application is not expected to be run as-is, it is rather provided as a code sample.
 
 ## Current examples
 
