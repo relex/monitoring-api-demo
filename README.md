@@ -1,7 +1,7 @@
 RELEX Monitoring API demo application
 =====================================
 
-This repository contains a demo applications showing code examples of how 
+This repository contains demo applications showing code examples of how 
 RELEX customers can interact with the [RELEX Monitoring API][1]. 
 
 The application is not expected to be run as-is, it is rather provided as a code sample.
@@ -14,6 +14,6 @@ The application is not expected to be run as-is, it is rather provided as a code
 
 ### Job events API - job_events.py
 * Accessing job events endpoint to check job status.
-* Verifying that importand jobs have been completed by RELEX.
+* Verifying that important jobs have been completed by RELEX.
 
 [1]: https://www.relexsolutions.com/relex-monitoring-api/
